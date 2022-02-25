@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Henry Marc de Gouffier Marquise of Boniuet, Lord of Creuecœur, &amp;c. Made in the consistorie of Rochell, in the presence of the pastors and elders of the said towne; as also of Monsieur de la Violette and Theuenot, pastors of the churches of Marans and Benet, on Wednesday being the third of August, 1616. The which very same protestation likewise hath beene made by the said Lord Marquise in the presence of the whole church of Rochel, on Sunday being the seuenth of the said moneth, after the morning sermon in the great church. At Rochell, printed for H. Haultin, by Cornelis Hertman. 1616.</title>
+            <title>Declaration de Henri-Marc de Gouffier. English</title>
+            <author>Bonnivet, Henri Marc de Gouffier, Marquis de, d. 1589.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68106</idno>
+            <idno type="STC">STC 12108</idno>
+            <idno type="STC">ESTC S103360</idno>
+            <idno type="EEBO-CITATION">99839116</idno>
+            <idno type="PROQUEST">99839116</idno>
+            <idno type="VID">3515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1139:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Henry Marc de Gouffier Marquise of Boniuet, Lord of Creuecœur, &amp;c. Made in the consistorie of Rochell, in the presence of the pastors and elders of the said towne; as also of Monsieur de la Violette and Theuenot, pastors of the churches of Marans and Benet, on Wednesday being the third of August, 1616. The which very same protestation likewise hath beene made by the said Lord Marquise in the presence of the whole church of Rochel, on Sunday being the seuenth of the said moneth, after the morning sermon in the great church. At Rochell, printed for H. Haultin, by Cornelis Hertman. 1616.</title>
+                  <title>Declaration de Henri-Marc de Gouffier. English</title>
+                  <author>Bonnivet, Henri Marc de Gouffier, Marquis de, d. 1589.</author>
+                  <author>E. M., of Christ Church, Oxford.</author>
+                  <author>Meetkerke, Edward, 1590-1657.</author>
+                  <author>R. M., fl. 1616.</author>
+               </titleStmt>
+               <extent>[4], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Griffin for Nathaniel Butter, dwelling neere S. Austens gate, at the signe of the Pide-Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1616.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Announcing his conversion to the Reformed Church.</note>
+                  <note>Translation of: Declaration de Henri-Marc de Gouffier.</note>
+                  <note>Translator's preface signed: E.M., i.e. Edward Meetkerke?.</note>
+                  <note>With a letter, and an extract of another, both signed R.M.</note>
+                  <note>Usually found as part 2 of "Newes from France" (STC 7372), a reissue of: La Mothe Luyne, M. Du Tertre, sieur de.  A declaration and manifestation, of the chiefe reasons and motives of the conversion of master M. du Tertre.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bonnivet, Henri Marc de Gouffier, --  Marquis de, d. 1589.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3515:1"/>
+            <pb facs="tcp:3515:1"/>
+            <p>A DECLARATION OF <hi>HENRY MARC</hi> DE <hi>Gouffier</hi> Marquiſe of <hi>Boniuet,</hi> Lord of <hi>Creuecoeur,</hi> &amp;c.</p>
+            <p>Made in the Conſiſtorie of <hi>Rochell, in the preſence of the Paſtors and Elders of the ſaid</hi> Towne; as alſo of Monſieur de la VIOLETTE and THEVENOT, Paſtors of the Churches of <hi>Marans</hi> and <hi>Benet,</hi> on Wedneſday being the third of Auguſt, 1616. The which very ſame proteſtation likewiſe hath beene made by the ſaid Lord Marquiſe in the preſence of the whole Church of ROCHEL, on Sunday being the ſeuenth of the ſaid moneth, after the morning Sermon in the great Church.</p>
+            <p>At ROCHELL, Printed for H. HAVLTIN, by CORNELIS HERTMAN. 1616.</p>
+            <p>LONDON, Printed by <hi>Edward Griffin</hi> for <hi>Nathaniel Butter,</hi> dwel<g ref="char:EOLhyphen"/>ling neere <hi>S. Auſtens</hi> gate, at the ſigne of the <hi>Pide-Bull.</hi> 1616.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:3515:2"/>
+            <head>The French Printer to the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>Ecauſe that otherwiſe this page had beene left emptie, I haue thought good to ſet in it the Epitaph of the late Lord of BONIVET, Admitall of</hi> France, <hi>as I haue found it in</hi> Du-Bellay.</p>
+            <lg>
+               <l>LA France &amp; le Piemont, &amp; les Cieux, &amp; les arts,</l>
+               <l>Les Solduts, &amp; le Monde ont faict comme ſix parts</l>
+               <l>De ce grand Boniuet: Car vne ſi grand choſe</l>
+               <l>Dedans vn ſeul tombeau ne po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uoit eſtre encloſe.</l>
+            </lg>
+            <lg>
+               <l>La France en a le corps qu'elle auoit eſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ene,</l>
+               <l>Le Piemont a le coeur qu'il auoit eſpro<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>Les Cieux en out l'eſprit, &amp; les Arts la memoire,</l>
+               <l>Les Soldats le regret, &amp; le Monde la Gloire.</l>
+            </lg>
+            <p>
+               <hi>The Engliſh whereof is the very ſame which wee finde to be the Epitaph made vpon the death of our Country-man the noble and thrice-worthy Knight Sir</hi> Philip Sidney: <hi>and therefore I haue thought good to leaue it as it was</hi> (mutatis mutandis) <hi>the names onely altered.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>FRANCE</hi> and <hi>PIEMONT,</hi> the Heauens, and the Arts,</l>
+               <l>The Souldiers, and the World, haue made ſixe parts</l>
+               <l>Of noble <hi>BONIVET,</hi> for none will ſuppoſe</l>
+               <l>That a ſmall heape of ſtones can <hi>BONIVET</hi> incloſe.</l>
+            </lg>
+            <lg>
+               <l>His body <hi>FRANCE</hi> hath had, for ſhe it fed;</l>
+               <l>And <hi>PIEMONT</hi> his bloud in her defence ſhed:</l>
+               <l>The Heauens haue his ſoule, the Arts haue his fame,</l>
+               <l>All Souldiers the griefe, the World his good name.</l>
+            </lg>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:3515:2"/>
+            <head>THE TRANSLATOR to the READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, I haue made bold after this former Treatiſe yet a while to trouble (or rather to delight) you with this enſuing ſhorter, yet no leſſe zealous, diſcourſe. The neereneſſe of both their arguments may in ſome ſort challenge a neereneſſe of place, and I hope ſhall obtaine at your hands a like acceptation. I will ſay no more: onely giue me leaue to adde this obſeruation of Gods conti<g ref="char:EOLhyphen"/>nuall watchfulneſſe ouer his Church. We haue ſeene of late what troubles, what broiles, what feares of a generall deua<g ref="char:EOLhyphen"/>ſtation haue beene (and it is to be feared are ſcarce yet en<g ref="char:EOLhyphen"/>ded) in that our neighbour Country. Many ſmall Treatiſes and Pamphlets (that were daily thronged as it were to the Preſſe) doe giue hereof a ſufficient teſtimonie: ſo that wee might in a manner ſay (as it is in the firſt chapter of <hi>Iob</hi> 
+               <note place="margin">
+                  <hi>Iob</hi> 1.</note> often repeated) <hi>Whiles hee was yet ſpeaking, another came, and ſaid,</hi> &amp;c. While one booke of bad newes was yet a printing, another came and brought vs worſe newes. Whileſt the matters of their Common-wealth ſtand thus, ſee how God on the other ſide prouides for his Church, and <hi>daily addes to it ſuch as ſhall bee ſaued.</hi> Not many <note place="margin">
+                  <hi>Act.</hi> 2. 47.</note> moneths ſince wee haue heard of the happy conuerſion of the Duke <hi>de Candale,</hi> one of the Peeres of <hi>France,</hi> and with
+<pb facs="tcp:3515:3"/>
+him of a many likewiſe that were of his retinue. This newes was ſcarce downe, but behold this other Treatiſe comming forth, declaring the conuerſion of a Gentleman, though not equall to the former in birth, yet (if wee may beleeue the <hi>Romaniſts)</hi> as farre aboue him in regeneration, as they eſteeme a ſpirituall vocation to exceede the temporall. And <hi>whiles he was yet ſpeaking, another came,</hi> I meane, whileſt this booke (at leaſt the tranſlation thereof) was yet in the Preſſe, another came, namely this preſent Declaration of Marquiſe <hi>Boniuet,</hi> &amp;c. So that wee haue cauſe ſtill to bleſſe God for his goodneſſe, who though (with thoſe buil<g ref="char:EOLhyphen"/>ders in <hi>Nehemiah) hee hath</hi> for a while <hi>had his ſword girded</hi> 
+               <note place="margin">
+                  <hi>Neh.</hi> 4. 18.</note> 
+               <hi>on his loines,</hi> for to ſtrike by way of puniſhment his people, yet at the ſame time hee kept in the other hand the hammer and chizell for to ſquare and fit theſe liuing ſtones to the building of his ſpirituall Temple. But what doe I? I muſt conclude, leſt mine obſeruation ſhould proue to be lon<g ref="char:EOLhyphen"/>ger then the text it ſelfe. In the meane time accept of that which is done for you, and bee thankfull to God for that which he hath done for his Church: and in particular ceaſe not to pray continually for the peace of the diſtreſſed <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> which he hath in <hi>France.</hi> Farewell. <hi>London,</hi> this laſt of Auguſt, 1616.</p>
+            <closer>
+               <signed>Yours, <hi>E. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:3515:3"/>
+            <head>A DECLARATION OF <hi>HENRY MARC</hi> DE GOVFFIER, Marquiſe of <hi>Boniuet,</hi> Lord of <hi>Creuecoeur, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F ſo be that pietie and the know<g ref="char:EOLhyphen"/>ledge of God were things here<g ref="char:EOLhyphen"/>ditarie, and of that nature that they could deſcend from the pa<g ref="char:EOLhyphen"/>rents to the children, as well as doe the goods and poſſeſſions of this world; then ſhould not I need at this time to declare what I am, what is my be<g ref="char:EOLhyphen"/>leefe, and what God hath put into me: for my bap<g ref="char:EOLhyphen"/>tiſme, mine education and bringing vp would teſtifie it; I hauing beene deſcended from ſuch perſons, whereof ſome haue had the feeling of Gods truth within them, and others the very confidence of pro<g ref="char:EOLhyphen"/>feſſing it openly. But the publike calamities, which for ſo many yeeres haue afflicted this eſtate, haue brought to mee in particular for my part this loſſe,
+<pb n="2" facs="tcp:3515:4"/>
+(more to be lamented then any other) that I could neuer haue a taſte of that good affection which pa<g ref="char:EOLhyphen"/>rents are wont to beare toward their children; and that thoſe, from whoſe care I might haue looked for a faithfull inſtruction in matters of ſaluation, hauing beene taken out of the miſeries of this world, as ſoone almoſt as I came vnto it, there was left vnto mee no other light then for the body, and my ſoule ſtill con<g ref="char:EOLhyphen"/>tinued in darkneſſe and the ſhadow of death, and that in ſuch manner, that accordingly as I grew in age, ſo I daily proceeded in errour, and ſtraying from Ieſus Chriſt and his Goſpell, I ſtrayed likewiſe from mine owne happineſſe, and had beene likely miſerably to continue in that lamentable and deplorable eſtate euen vnto this day, and ſo forwards, if God, <hi>who know<g ref="char:EOLhyphen"/>eth who are his, and whoſe names hee hath written in his booke of life,</hi> had not had pittie of me: and if the good<g ref="char:EOLhyphen"/>neſſe of him, <hi>who ſheweth mercy to whom hee ſheweth mercy,</hi> had not preuented mee, and formally oppoſed it ſelfe to the miſchiefe which was pleaſing vnto me, and to that curſe, which being to mee the greateſt of all, yet aboue all others was hugged and liked of by my ſoule. And if the kindneſſe of God towards mee hath beene eminent in regard of the thing it ſelfe, in that he hath vouchſafed to deliuer me from the pow<g ref="char:EOLhyphen"/>er of darkneſſe, for to tranſlate me to the kingdome of his well-beloued ſonne; the meanes alſo which it hath pleaſed him to vſe for to bring to paſſe this hap<g ref="char:EOLhyphen"/>pie effect, are no leſſe worth the conſidering, in that God of the meanes of my totall perdition (atleaſt as they might ſeeme likely to bee) hath made as many meanes of my conuerſion to him, according as hee is
+<pb n="3" facs="tcp:3515:4"/>
+wont to draw ſweetneſſe out of bitter things for his children, and generally <hi>to make all things to turne to the</hi> 
+               <note place="margin">Rom. 8.</note> 
+               <hi>beſt for thoſe who are called according to his determined purpoſe.</hi>
+            </p>
+            <p>It is now twelue yeeres agoe when I was at <hi>Rome:</hi> (I will ſay no more) there mine eyes ſaw wonders, but ſuch as were quite of another nature then thoſe which heretofore the Apoſtles (being directed and animated by the holy Spirit) brought forth for to au<g ref="char:EOLhyphen"/>thorize and confirme the doctrine of grace. And how carefully and induſtriouſly ſoeuer I was nurtu<g ref="char:EOLhyphen"/>red in ignorance, and brought vp in the hatred of the Religion, and the loue of Idolatrie, yet I could ne<g ref="char:EOLhyphen"/>uer bee hindred from perceiuing that there was a great diſproportion betweene the ſtate of thoſe, who at this day doe domineere ouer the Church, and the condition of them, who formerly did feed the flocke of Chriſt that was committed vnto them. Yet that was ſcarce any more, then if I ſhould haue beheld the darkneſſe of the night, without being able to diſ<g ref="char:EOLhyphen"/>cerne the brightneſſe of the day: or if I did beginne to take notice, it was in that manner as men beginne to ſee at the breake of day. That beginning, how ſmall ſoeuer it was then, did not continue vnprofitable: the riſing of the Sunne drew nigh, the light increa<g ref="char:EOLhyphen"/>ſed, and was ſtrengthned in mine vnderſtanding; the abuſes of Poperie appeared vnto me both groſſer and more; God left not in mee his worke vnperfect, hee did put me in minde of inquiring a little further, and to be informed truly by himſelfe in his owne word, whether of the two Religions that are receiued in this Kingdome might haue the vpper hand in regard
+<pb n="4" facs="tcp:3515:5"/>
+of the truth, or had more conformitie vnto this word. This enquirie did make mee to reſolue about ſome three yeeres ſince, to forſake the ſeruice which I finde condemned in the Scripture, and to embrace that which I find therein commanded, and to come forth<g ref="char:EOLhyphen"/>with out of <hi>Babylon,</hi> for feare that partaking longer of her knowne crimes, I ſhould bring my ſelfe into a ma<g ref="char:EOLhyphen"/>nifeſt danger of partaking of her vnknowne plagues. Whileſt I had this reſolution, which came to me from God, behold on the contrary many conſiderations, which came from elſewhere: on the one ſide were preſented to mine eyes the luſtre, the pompe, the dig<g ref="char:EOLhyphen"/>nities, the greatneſſe, the hopes of the earth, and with all this oſtentation of the glories of the world, as it were a certaine voice well-neere like to that which ſaid ſometimes to our Lord, <hi>I will giue thee all theſe things, if thou fall downe and worſhip mee:</hi> on the other ſide, the pouertie, the miſeries, the ruines of houſes, the hatred, the contempt, and all what is moſt able to cauſe a diſtaſte, which ſhould bee mine aſſured lot in caſe of change. Theſe two tentations, the one on the right, and the other on the left hand, did make me ſuſ<g ref="char:EOLhyphen"/>pend the effect of that wil which the ſpirit of God had inſinuated into my ſpirit; I looked behind me a good while, <hi>I withheld the truth in vnrighteouſnes.</hi> I made my <note place="margin">Rom. 1. 18.</note> ſelfe beleeue that by doing much euil I ſhould haue good done vnto me; I fled from the preſence of God, but God did make me at length feele that he deceiues himſelfe, which thinkes to ſcape by ſwiftneſſe from before him: he prepared for me a Whale for to ſwal<g ref="char:EOLhyphen"/>low me, but yet not for to deſtroy me; I was chaſte<g ref="char:EOLhyphen"/>ned by his hand, and that through the ſame things
+<pb n="5" facs="tcp:3515:5"/>
+in the which I had ſinned: he tooke away out of mine hands both that which I had, and that which I had not. And now my hopes were cut off euen at the root, now many things by me poſſeſſed were loſt for me, now my libertie (more precious then all the reſt) was taken from me: but God be praiſed, who hauing taken from mee ſo many things, yet hath giuen mee ſo many, that if hee hath ſent mee any euill, it was onely for to ſend me ſome good; if he hath made mee poorer, it was for to make mee richer then euer I was before, and that in better riches, in thoſe namely that are the onely true ones: if hee hath made my body to bee caſt into priſon, it was for to make my ſoule to come out of thrall: if hee hath ſuffered mee to fall in<g ref="char:EOLhyphen"/>to the hands of ſuch men as hated me, it was for feare that I ſhould fall into his hands, yea into his hands as he is a rigorous Iudge, and yet to the end that I might fall into his hands, as hee is a kinde and mercifull Fa<g ref="char:EOLhyphen"/>ther, and that I might learne to my coſt (being I could not doe it by the example of others) to feare him, to reuerence him, to giue him the glory, and to conſecrate to him whatſoeuer belongs to me, without any reſeruation, as I acknowledge my ſelfe truly and after an infinite number of ſorts to be bound to doe, and acknowledge likewiſe, that it was the pure mercy of God that I was not conſumed, becauſe that his compaſſions did not faile me. And ſeeing that God hath done mee that fauour, that his word doth ſerue mee at this day in ſtead of a lampe for my feet, and of a light for my ſteps, to this word and to this Scrip<g ref="char:EOLhyphen"/>ture, diuinely inſpired, I purpoſe to keepe mee, with<g ref="char:EOLhyphen"/>out euer any more repairing to the traditions of men,
+<pb n="6" facs="tcp:3515:6"/>
+ſeeing that God hath giuen Ieſus Chriſt for to be the head to his Church (of the which I am a member) for to bee the onely Mediatour betweene him and men, and our Aduocate towards his Father; for to be the onely Prieſt for euer, for to haue an euerlaſting Prieſthood, and for to offer (as hee hath offered) one onely ſacrifice for ſinnes, for to bee the Lambe of God, whoſe bloud doth cleanſe vs from all ſinne, for to ſit for euer at the right hand of God, and to be held in the heauen vntill the time of the re-eſtabliſhing of all things, and vntill that hee ſhall come from thence for to iudge the quicke and the dead: I acknowledge from henceforth no more (to the preiudice of him) any miniſteriall head of the Church on the earth, nor Aduocate, taken from among either men or Angels, nor any Prieſt ſacrificing his body, nor Maſſe ſeruing for a propitiatorie ſacrifice for the ſinnes of the liuing and the dead, nor Purgatorie after this life, nor reall preſence of the body and bloud of Ieſus Chriſt in the Sacrament vnder the kindes of bread and wine. And becauſe that the Spirit of God doth teach mee, that no fleſh is iuſtified by the workes of the Law, but only by faith in Ieſus Chriſt, I will no longer forge vnto my ſelfe any merit of good workes, and much leſſe of ſupererogation; and I will account the good workes of the faithfull to haue beene prepared by God, to the end that wee may walke therein, and will eſteeme them to be <hi>the way to the Kingdome of heauen, and not the cauſe of raigning.</hi> And it is in this truth, and in the pro<g ref="char:EOLhyphen"/>feſſion thereof, that I deſire, and that I promiſe here before God, his Angels, and his Church, to bee wil<g ref="char:EOLhyphen"/>ling to liue and to die, deteſting with all mine heart
+<pb n="7" facs="tcp:3515:6"/>
+all Idolatries, ſuperſtitions and errors, which are con<g ref="char:EOLhyphen"/>trary to the confeſſion of faith of the Churches of this Kingdome, and proteſting to ſubmit my ſelfe wholly to that which concernes the order and diſcipline of the Church. Thus ſigned, <hi>Boniuet.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:3515:7"/>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:3515:7"/>
+            <head>THE COPIE OF A LETTER, SENT from PARIS by an Engliſh <hi>Gentleman to his friend in England,</hi> Wherein are briefely touched thoſe occurrences which lately fel out in <hi>Paris,</hi> about the Prince of CONDE, on the 22. of <hi>Auguſt,</hi> this preſent yeere, 1616.</head>
+            <opener>
+               <hi>Laus Deo,</hi> 
+               <date>
+                  <hi>Auguſt,</hi> 22. 1616.</date>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Haue with the firſt con<g ref="char:EOLhyphen"/>ueniency ſent ouer vn<g ref="char:EOLhyphen"/>to you, the neweſt, and (heere) moſt knowne newes, dated, as before; hauing receiued no let<g ref="char:EOLhyphen"/>ters from you ſince the tenth of the ſame. And whereas, not onely in many before, but eſpecially in your laſt, you ſeri<g ref="char:EOLhyphen"/>ouſly importun'd mee (knowing what windes
+<pb n="10" facs="tcp:3515:8"/>
+blew heere) to giue you intelligence of French preſent occurrences, as they ſhall happen; I haue done ſo, rather to ſatisfie your minde, deſirous of nouelties, than to pleaſe my ſelfe in ſetting downe the troubles of others, that haue too many of mine owne. France (as you know) is to mee nothing, in regard I am an Engliſhman and a ſtranger to her factions. Shee is as one of her Vineyards, rob'd by French-men in my ſight, which ſtelth is no loſſe to mee. I ſtand ſafe on the ſhore, and beholde her ſides beating vpon a rocke, the wracke I feele not; yet am I bound, in common humanitie, to compaſſionate my neigh<g ref="char:EOLhyphen"/>bours ſorrow, ſeeing his houſe burning about his eares: And doe therefore proteſt to you, that I ſuf<g ref="char:EOLhyphen"/>fer as much, as if I were a naturall French-man borne, in being preſent within ſo goodly a Citie as <hi>Paris</hi> is, when ſhee is full (at leaſt looking howrely to bee ſo) of turmoiles, vproares, and ci<g ref="char:EOLhyphen"/>uill combuſtion: and to ſee ſo many thouſands of the French (I meane the <hi>Pariſiens)</hi> walke vp and downe with ſuch amazed, wilde, and diſtracted faces; that if tenne be in a troupe together, not three of them can ſafely ſweare, that a fourth man is his friend. In euery ſtreet, yea at euery corner, the people flocke in heapes, muttering and mur<g ref="char:EOLhyphen"/>muring, and whiſpering one to another; and no<g ref="char:EOLhyphen"/>thing is more expected, (nay more deſired by ſome) than that a ſword may be drawne, to the end that pell mell they may fall to cutting of throates. The Townes of France are rich, and ſpoiles would now taſte ſweetly, eſpecially to the Peſant, who
+<pb n="11" facs="tcp:3515:8"/>
+wiſheth to build vpon his countries ruines, and to ſet an edge vpon his fury, this occaſion gaue ad<g ref="char:EOLhyphen"/>uantage. For vpon the twentie two of <hi>Auguſt,</hi> now preſent, (euen this day, in which I write vnto you) the Prince of <hi>Conde</hi> being in <hi>Paris,</hi> well ac<g ref="char:EOLhyphen"/>companyed, came to the Court, where hee had not beene long, but he was ſurprized and carryed priſoner to the <hi>Louure,</hi> why hee came, and whe<g ref="char:EOLhyphen"/>ther of himſelfe or ſent for, is not in my know<g ref="char:EOLhyphen"/>ledge, and if I ſhould ſet downe all which I heare touching the cauſes of this ſurprizall (of whoſe true notice I deſire not to bee guiltie) you might thinke mee, either very idle, to call euery ſhadow a ſubſtance, or elſe very buſie to bee ſo inquiſitiue in the affaires of a kingdome, when mine owne are altogether priuate. I had rather walke vp and downe the ſtreets of <hi>Paris</hi> (albeit with ſome feare of danger) than thruſt my head into their Coun<g ref="char:EOLhyphen"/>cell chambers, and to meddle with Princes mat<g ref="char:EOLhyphen"/>ters, which no whit concerne mee. And therefore doe I ſparingly deliuer you theſe vproares, not ſearching into the ground and reaches of them, as hearing various and inconſtant reports: I giue eare to many, but credit few, and dare not (albeit I might) vtter my owne opinion, becauſe I am as loth to wrong you by this of mine, as that you ſhould doe the like to your friends in England, by a ſecond relation. The Prince of <hi>Conde</hi> being ta<g ref="char:EOLhyphen"/>ken, the Duke of <hi>Vandoſme</hi> eſcaped. Others like<g ref="char:EOLhyphen"/>wiſe fearing the ſame danger, met with the ſame happy meanes of ſafetie: For the Duke of <hi>Bouillon,</hi> with <hi>Tremouille,</hi> &amp; many other perſonages of note
+<pb n="12" facs="tcp:3515:9"/>
+being at a ſermon, hauing notice giuen, as they came from Church, fled; and to make their ſide the ſtronger, the Duke <hi>Du Maine</hi> is ioyn'd with them. How theſe Noble-men came to the knowledge of the Prince of <hi>Condees</hi> ſurprizall, is (euen heere) doubtfull. Some ſay by a French Page, who ſaw him carried away, &amp; that he was demanded to de<g ref="char:EOLhyphen"/>liuer vp his ſword, which he refuſed to do: others otherwiſe: But howſoeuer it happened, it ſeem'd a good and miraculons deliuerance of the reſt, (who hold with him) if at leaſt they turne not that preſeruation of themſelues, to the confuſion of others. Which the rather is to bee feared, for that hauing (to auoid the blow) turned their backes for ſafety, they now (as it is thought) arme their hands with weapons, aſſembling themſelues, and freinds with all their forces at <hi>Soiſſons,</hi> to make their party (for defence) as ſtrong as they can. Now, whether in loue to the <hi>Prince of Conde,</hi> or in hate for any priuate reſpect they beare the <hi>Marqueſse d' Ancres;</hi> a man famous in<g ref="char:EOLhyphen"/>ough in <hi>England</hi> and elſe where for exceeding fa<g ref="char:EOLhyphen"/>uours, done him by the Queene mother in France; or whether (as often it ſo happeneth) a deſire of doing ſomething (though neuer ſo ill) ſet the com<g ref="char:EOLhyphen"/>mon peoples fingers on itching, I know not: But preſently vpon ſurprizall of the Prince (it being noyſd through <hi>Paris,</hi> that hee was ſent priſoner to the <hi>Louure)</hi> they ranne in heapes and height of fury to the <hi>Marqueſses</hi> houſe, aſſaulted, entred, and rifled it; making ſpoyle of all that was in it, and when no other prey could feede them, they ſpent
+<pb n="13" facs="tcp:3515:9"/>
+their malice on the inſenſible walles (tearing and bea<g ref="char:EOLhyphen"/>ting the building downe) which (if hee could haue beene gotten) they ſwore to execute vpon himſelfe. In this wauering eſtate the Kingdome ſtill ſtands. What the euent of theſe troubles will bee, lies in the hands of God onely: the occurrences whereof (as hereafter time ſhall deliuer) I will (as theſe) ſend vn<g ref="char:EOLhyphen"/>to you, expecting a returne (by way of exchange) from you of ſome newes out of <hi>England.</hi> And ſo with wiſhes of your health, I bid you farewell, from <hi>Paris,</hi> the 22. of Auguſt, 1616.</p>
+            <closer>
+               <signed>Reſting yours moſt aſſured, R. M.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:3515:10"/>
+            <head>THE EXTRACT of another Letter bearing date <hi>the</hi> 26. <hi>of Auguſt: Written from</hi> PARIS.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, the broiles of <hi>France</hi> goe on: The Prince ſtill in the Louure, remoued to a more inacceſſible roome of the Kings Pauilion. Proclamations are come forth here very ſtrict, both for driuing away all the Dukes and Princes ſeruants from the Citie on paine of death, and reſtraint of tongues. There are ru<g ref="char:EOLhyphen"/>mours of preparations of both ſides: The Duke of <hi>Guiſe</hi> is ioyned with the Dukes, and they ſay his bro<g ref="char:EOLhyphen"/>ther Cardinall, turn'd now militarie, ſhall be Preſi<g ref="char:EOLhyphen"/>dent of their Counſell, and himſelfe Generall of the Field. Looke not to know all by Letters: theſe times allow it not ſafe.</p>
+            <closer>
+               <signed>Yours aſſured, <hi>R. M.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:3515:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
